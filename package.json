@@ -1,0 +1,24 @@
+{
+    "name": "objy-mapper-grid-fs",
+    "version": "0.0.1",
+    "description": "A storage mapper for grid-fs",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/objy-org/objy-mapper-grid-fs.git"
+    },
+    "keywords": [],
+    "author": "Marco Boelling",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/objy-org/objy-mapper-grid-fs/issues"
+    },
+    "homepage": "https://github.com/objy-org/objy-mapper-grid-fs#readme",
+    "dependencies": {
+        "mongoose": "6.12.5"
+    },
+    "devDependencies": {
+        "jest": "^25.1.0",
+        "tinyify": "^2.5.2"
+    }
+}
