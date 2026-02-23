@@ -5,15 +5,15 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/objy-org/objy-mapper-grifs.git"
+        "url": "git+https://github.com/objy-org/objy-mapper-grid-fs.git"
     },
     "keywords": [],
     "author": "Marco Boelling",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/objy-org/objy-mapper-gridfs/issues"
+        "url": "https://github.com/objy-org/objy-mapper-grid-fs/issues"
     },
-    "homepage": "https://github.com/objy-org/objy-mapper-gridfs#readme",
+    "homepage": "https://github.com/objy-org/objy-mapper-grid-fs#readme",
     "dependencies": {
         "mongoose": "6.12.5"
     },
